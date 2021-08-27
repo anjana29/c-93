@@ -1,0 +1,18 @@
+body
+{
+	background-image: url("bubbles.gif");
+}
+
+	
+#output
+{
+background: rgb(3, 252, 65);
+border-radius: 10px;
+border-top: 10px solid #069286;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#number_1,#number_2{
+	background-color:rgb(3, 252, 65);
+}

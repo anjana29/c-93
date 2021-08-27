@@ -1,0 +1,15 @@
+.Math_quiz{
+	background-image:url("nicolas-fong599.gif");
+	}
+	h1,h5{
+		color:white;
+	}
+	#login{
+		width: 100px;
+		border-radius: 75px;
+	}
+	#player_1,#player_2{
+		width: 400px;
+		border-radius: 75px;
+	
+	}
